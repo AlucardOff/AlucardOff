@@ -1,13 +1,13 @@
 ![Brand](https://cdn.discordapp.com/banners/570153997667926016/20cc3413ab60cd5821db2b95a4666565.png?size=2048)
 
-# Alucard 
+# Alucard
 
-## 	🙋‍♂️ Qui suis-je?
+## 🙋‍♂️ Qui suis-je?
 
-Mon pseudo est Alucard, je suis un Développeur Web Fullstack (JS)!
+Mon pseudo est Alucard, je suis un Développeur Web Fullstack (JS)!\n
 Je suis majoritairement sur Discord (**Alucard#7777**) avec l'ambition de créer des bots.
 
-##🧪 Abilités
+## 🧪 Abilités
 
 ### Languages
 
