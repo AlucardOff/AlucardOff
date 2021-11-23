@@ -4,8 +4,7 @@
 
 ## 🙋‍♂️ Qui suis-je?
 
-Mon pseudo est Alucard, je suis un Développeur Web Fullstack (JS)!\n
-Je suis majoritairement sur Discord (**Alucard#7777**) avec l'ambition de créer des bots.
+Mon pseudo est Alucard, je suis un étudiant Développeur Web Fullstack. Mon Tag Discord est Alucard#7777.
 
 ## 🧪 Abilités
 
