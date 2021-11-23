@@ -1,6 +1,6 @@
-![Brand](https://media.discordapp.net/attachments/296668970788847616/742878132507377805/unknown.png)
+![Brand](https://cdn.discordapp.com/banners/570153997667926016/20cc3413ab60cd5821db2b95a4666565.png?size=2048)
 
-# Alucard <img src="https://cdn.discordapp.com/avatars/855404028892938241/56b87014e6e075977ca558199dd87c8b.png?size=4096" style="max-width:100%;">
+# Alucard 
 
 ## 	🙋‍♂️ Qui suis-je?
 
